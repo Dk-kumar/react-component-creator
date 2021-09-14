@@ -1,0 +1,16 @@
+{
+  "name": "react-component-creator",
+  "version": "1.0.0",
+  "description": "For react component creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepan Kumar(Software developer)",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "prompt": "^1.2.0",
+    "readline": "^1.3.0"
+  }
+}
